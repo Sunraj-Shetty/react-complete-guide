@@ -20,3 +20,6 @@ const ExpenseItem = (props) => {
 }
 
 export default ExpenseItem;
+rwf
+WebGLBufferwefwe
+varwevwevewv
